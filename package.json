@@ -1,0 +1,19 @@
+{
+  "name": "aoc_2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "run": "node build/index.js",
+    "start": "npm run build && node ./build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
