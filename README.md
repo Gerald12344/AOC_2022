@@ -1,4 +1,4 @@
-# (AOC_2022)[https://github.com/Gerald12344/AOC_2022]
+# [AOC_2022](https://github.com/Gerald12344/AOC_2022)
 ---
 Its that time of year again when I attempt Advent of code!
 
