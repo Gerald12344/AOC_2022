@@ -22,7 +22,5 @@ export default function () {
 
     totalMax.sort((a, b) => b - a);
 
-    console.log(totalMax)
-
     console.log(totalMax[0] + totalMax[1] + totalMax[2]);
 }
