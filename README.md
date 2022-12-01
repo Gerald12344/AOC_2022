@@ -1,6 +1,6 @@
 # [AOC_2022](https://github.com/Gerald12344/AOC_2022)
 ---
-Its that time of year again when I attempt Advent of code!
+Its that time of year again when I attempt Advent of code, this year we are going Typescript!
 
 Hopefully this year I have created a much simpler way to look at the code. To run the code check below:
 
