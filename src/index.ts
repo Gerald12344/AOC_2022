@@ -26,7 +26,7 @@ if (existsSync(`./build/week_${week}`)) {
         }
     })();
 } else {
-    throw new Error("Week does not exist");
+    throw new Error(`Week ${week} does not exist`);
 }
 
 
